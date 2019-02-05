@@ -17,7 +17,7 @@ and if seller sales any product then make an invoice. So you can handle your sho
 1. Used login pannel, only resgistered person can access the database. <br>
 2. It's online based software  ,so if your system may crushed or dead then you can recovery the database from online server.
 
-Technology used <br>
+<b>Technology used</b> <br>
 Front End: java swing <br>
 Language: java <br>
 Database: Mysql <br>
