@@ -21,5 +21,5 @@ and if seller sales any product then make an invoice. So you can handle your sho
 Front End: java swing <br>
 Language: java <br>
 Database: Mysql <br>
-Report making  : <a href="https://sourceforge.net/projects/ireport/files/iReport/iReport-5.6.0/"> jaspersoft iReport</a>
+Report making  : <a href="https://sourceforge.net/projects/ireport/files/iReport/iReport-5.6.0/"> jaspersoft iReport</a> <br>
 IDE : <a href="https://netbeans.org//"> jaspersoft iReport</a>
