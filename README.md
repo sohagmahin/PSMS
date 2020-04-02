@@ -3,7 +3,7 @@ Product sales management system
 
 <b>About this project</b> <br>
 Product sales management system for the department store. Seller can input whole product list of information to the software 
-then if seller sales any product, it automatically decresed inserted producet list with update all information.</br> 
+then if seller sales any product, it automatically decreased inserted producet list with update all information.</br> 
 So you can handle your shop easily.
 
 <b>Features: </b> <br>
